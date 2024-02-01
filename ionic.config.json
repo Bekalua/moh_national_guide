@@ -1,0 +1,7 @@
+{
+  "name": "MOH Guideline",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
